@@ -1,5 +1,8 @@
-// "const" is used to declare a variable that cannot be reassigned
+// ---------
+// Variables are used to store a value
+// ---------
 
+// "const" is used to declare a variable that cannot be reassigned
 const name = "lilo";
 const age1 = 16;
 
@@ -20,5 +23,3 @@ age2 = 14;
 
 console.log(age2); 
 // prints 14 because we reassigned the variable
-
-// NOTE: "var" is another word for "let" but that was used in older javascript
