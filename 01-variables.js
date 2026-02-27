@@ -7,7 +7,7 @@ const age1 = 16;
 age1 = 17; 
 
 console.log(age1); 
-// this line will not run because the error above stops execution
+// won't run because the error above stops execution
 
 
 
@@ -15,8 +15,10 @@ console.log(age1);
 
 let age2 = 13;
 
-// Reassigning a let variable is allowed
+// reassigning a let variable is allowed
 age2 = 14;
 
 console.log(age2); 
-// This prints 14 because we reassigned the variable
+// prints 14 because we reassigned the variable
+
+// NOTE: "var" is another word for "let" but that was used in older javascript
