@@ -9,3 +9,9 @@
 // 3) Functions
 // Functions are reusable blocks of code that run when you call them
 // Functions example file: ./03-functions.js
+
+// 4) Modules
+// Modules let you share variables and functions between files
+// Modules example files: ./04-modules-1.js and ./04-modules-2.js
+
+// 5) 
